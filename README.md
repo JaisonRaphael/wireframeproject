@@ -12,8 +12,18 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
 
+Home Page:
+
+![HP](hp.png)
+
+About Us:
+
+![AU](au.png)
+
+Training Page:
+
+![AU](tp.png)
 
 ## Result:
 Thus a wire frame is designed for a given website.
